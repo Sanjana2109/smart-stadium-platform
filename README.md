@@ -1,3 +1,9 @@
+****************CHECKOUT VIDEOS OF DEMO INSIDE MAIN DIRECTORY OF PROJECT*****************
+****************CHECKOUT VIDEOS OF DEMO INSIDE MAIN DIRECTORY OF PROJECT*****************
+****************CHECKOUT VIDEOS OF DEMO INSIDE MAIN DIRECTORY OF PROJECT*****************
+****************CHECKOUT VIDEOS OF DEMO INSIDE MAIN DIRECTORY OF PROJECT*****************
+
+
 # Nexus Smart Stadium Platform 🏟️
 
 Nexus is a real-time, AI-powered smart stadium management and attendee experience platform. It leverages WebSockets, Redis Pub/Sub, and Google's Gemini AI to provide dynamic crowd control, live queue monitoring, and an intelligent assistant for stadium attendees.
